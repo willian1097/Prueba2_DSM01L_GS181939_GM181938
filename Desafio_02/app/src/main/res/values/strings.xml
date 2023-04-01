@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Desafio_02</string>
+    <string name="prefs_file">pref.PREFERENCE_FILE_KEY</string>
+</resources>
